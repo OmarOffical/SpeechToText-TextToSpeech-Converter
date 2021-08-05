@@ -1,6 +1,3 @@
 # SpeechToText-TextToSpeech-Converter
-هذا المشروع يحتوي على محول من نص الى صوت والعكس كل ما عليك هو تشغيل دالة Main
-وبإمكانك اذا ما أردت ان تختار أي خيار من الخيارات التي ترد يجب عليك تشغيل المسار من نفس مسار ملف main 
-والا فلن يعمل معك البرنامج 
-النص او الصوت الذي تم تحويله سيتم حفظها في نفس المسار الموجود فيه دالة main
-
+This project contains a converter from text to Speech and ٍSpeech To text. All you have to do is run the Main file, and then you can choose any of the available options, you must run the program from the same path as the main file. Otherwise, the program will not work for you
+The converted text or audio will be saved in the same path as the main file
